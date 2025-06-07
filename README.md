@@ -37,7 +37,7 @@ This project presents an energy-efficient smart home automation system powered b
   - Light status (ON/OFF)
   - Temperature readings
 
- <img src="System Architecture/SystemArchitecture.png" alt="Alt text" width="200" height="150" />
+ <img src="System Architecture/SystemArchitecture.png" alt="Alt text" width="500" height="300" />
 
 ### 🛠️ Technologies
 Microcontroller: Arduino

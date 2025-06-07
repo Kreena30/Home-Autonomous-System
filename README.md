@@ -36,7 +36,9 @@ This project presents an energy-efficient smart home automation system powered b
   - Current smoke levels
   - Light status (ON/OFF)
   - Temperature readings
- 
+
+ <img src="System Architecture/SystemArchitecture.png" alt="Alt text" width="200" height="150" />
+
 ### 🛠️ Technologies
 Microcontroller: Arduino
 Designing Software and Programming language: TinkerCAD and C/C++

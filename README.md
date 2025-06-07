@@ -36,16 +36,10 @@ This project presents an energy-efficient smart home automation system powered b
   - Current smoke levels
   - Light status (ON/OFF)
   - Temperature readings
-
-### Hardware Setup
-1. Connect ultrasonic sensor to digital pins for door control
-2. Wire PIR motion sensor for occupancy detection
-3. Install photoresistor for ambient light sensing
-4. Connect temperature sensor for climate monitoring
-5. Set up smoke sensor with buzzer for safety alerts
-6. Wire servo motor for door automation
-7. Connect LCD display for status monitoring
-8. Install solar panel and battery system
+ 
+### 🛠️ Technologies
+Microcontroller: Arduino
+Designing Software and Programming language: TinkerCAD and C/C++
 
 ## Energy Optimization Features
 

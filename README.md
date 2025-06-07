@@ -75,11 +75,3 @@ Designing Software and Programming language: TinkerCAD and C/C++
 | Power Source | Solar + Battery backup |
 | Display Type | LCD with multi-parameter view |
 
-## Benefits
-
-- **Energy Efficient**: Solar-powered with optimized consumption
-- **Eco-Friendly**: Renewable energy reduces carbon footprint
-- **Cost-Effective**: Reduced electricity bills
-- **Enhanced Safety**: Multi-sensor monitoring system
-- **Convenience**: Fully automated operation
-- **Scalable**: Easy to expand with additional sensors/controls

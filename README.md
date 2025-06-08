@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project presents an energy-efficient smart home automation system powered by solar energy. The system optimizes power consumption by intelligently controlling lighting, ventilation, air conditioning, and security based on environmental conditions and human presence detection.
+This project presents an energy-efficient smart home automation system powered by solar energy. The system optimizes power consumption by intelligently controlling lighting, ventilation, air conditioning, and security based on environmental conditions and human presence detection. The whole project is designed
+
+### Technologies
+Microcontroller: Arduino
+Designing Software and Programming language: TinkerCAD and C/C++
 
 ## Features
 
@@ -38,10 +42,6 @@ This project presents an energy-efficient smart home automation system powered b
   - Temperature readings
 
  <img src="System Architecture/SystemArchitecture.png" alt="Alt text" width="500" height="300" />
-
-### Technologies
-Microcontroller: Arduino
-Designing Software and Programming language: TinkerCAD and C/C++
 
 ## Energy Optimization Features
 

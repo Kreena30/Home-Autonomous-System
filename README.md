@@ -6,23 +6,23 @@ This project presents an energy-efficient smart home automation system powered b
 
 ## Features
 
-### 🚪 **Automatic Door Control**
+### **Automatic Door Control**
 - Ultrasonic sensor detects person presence within 320cm range
 - Servo motor automatically opens door when person approaches
 - Safety timer closes door after 5-6 seconds delay
 
-### 💡 **Smart Lighting System**
+### **Smart Lighting System**
 - Motion sensor detects occupancy in rooms
 - Photoresistor measures ambient light intensity
 - Lights activate only during nighttime or low-light conditions
 - Energy optimization through conditional lighting
 
-### 🌡️ **Climate Control**
+### **Climate Control**
 - Automatic fan activation upon motion detection
 - Temperature-based AC control with optimized constant speed operation
 - Energy-efficient climate management
 
-### 🔥 **Safety Monitoring**
+### **Safety Monitoring**
 - Smoke sensor with 4-level detection system:
   - Low
   - Medium  
@@ -30,7 +30,7 @@ This project presents an energy-efficient smart home automation system powered b
   - Exit (Critical/Hazardous)
 - Integrated buzzer alert system for smoke detection
 
-### 📱 **Real-time Display**
+### **Real-time Display**
 - LCD display showing:
   - Distance measurement from ultrasonic sensor
   - Current smoke levels
@@ -39,7 +39,7 @@ This project presents an energy-efficient smart home automation system powered b
 
  <img src="System Architecture/SystemArchitecture.png" alt="Alt text" width="500" height="300" />
 
-### 🛠️ Technologies
+### Technologies
 Microcontroller: Arduino
 Designing Software and Programming language: TinkerCAD and C/C++
 

@@ -7,6 +7,10 @@ This project presents an energy-efficient smart home automation system powered b
 ### Technologies
 Microcontroller: Arduino
 Designing Software and Programming language: TinkerCAD and C/C++
+Sensors: Ultrasonic, motion, photoresistor, temperature, smoke
+Actuators: Servo motor, relays, buzzer
+Display: LCD module
+Power: Solar panels, charge controller, battery bank
 
 ## Features
 
